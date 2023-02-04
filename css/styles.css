@@ -1,8 +1,10 @@
+@media(min-width:370px) and (max-width:1440px){
 body{
     margin: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
     color: #40514E;
+}
 }
 h1{
     margin: 50px auto 0px auto;
