@@ -5,7 +5,7 @@ body{
     font-family: 'Merriweather', serif;
     color: #40514E;
 }
-}
+
 h1{
     margin: 50px auto 0px auto;
     font-size: 5.625rem;
@@ -70,7 +70,6 @@ p{
     text-align: left;
     
 }
-@media(min-width:370px) and (max-width:1440px){
 .first-image{
     width: 25%;
     height: 25%;
@@ -86,7 +85,7 @@ p{
 .mountain{
 border-style:none;
 }
-}
+
 hr{
     border-style: none;
     border-top-style: dotted;
@@ -128,4 +127,5 @@ a{
 }
 a:hover{
     color: #EAF6F6;
+}
 }
