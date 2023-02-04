@@ -72,13 +72,13 @@ p{
 }
 .first-image{
     width: 25%;
-    height: 25%;
+    height: 250px;
     float: left;
     margin-right: 30px;
 }
 .second-image{
     width: 25%;
-    height: 25%;
+    height: 250px;
     float: right;
     margin-left: 30px;
 }
