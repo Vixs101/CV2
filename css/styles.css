@@ -70,6 +70,7 @@ p{
     text-align: left;
     
 }
+@media(min-width:370px) and (max-width:1440px){
 .first-image{
     width: 25%;
     height: 25%;
@@ -81,6 +82,10 @@ p{
     height: 25%;
     float: right;
     margin-left: 30px;
+}
+.mountain{
+border-style:none;
+}
 }
 hr{
     border-style: none;
