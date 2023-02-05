@@ -75,12 +75,14 @@ p{
     height: 25%;
     float: left;
     margin-right: 30px;
+    Object-fit: contain;
 }
 .second-image{
     width: 25%;
     height: 25%;
     float: right;
     margin-left: 30px;
+    Object-fit: contain;
 }
 .mountain{
 border-style:none;
