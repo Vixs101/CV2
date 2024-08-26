@@ -1,4 +1,3 @@
-@media(min-width:370px) and (max-width:1440px){
 body{
     margin: 0px;
     text-align: center;
@@ -136,6 +135,5 @@ a:hover{
  display:flex;
  Justify-content: center;
  align-items: center;
-}
 }
  
